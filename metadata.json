@@ -1,0 +1,6 @@
+{
+  "name": "Worken Portfolio Wallet",
+  "description": "Personal verified portfolio wallet and employment management portal for Mr. Thoriq Ahmad Ziad at The Emporium Hotel Plovdiv.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
